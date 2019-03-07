@@ -38,6 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'usr_comment',
+    'rest_framework',
+    'django_filters',
 ]
 
 MIDDLEWARE = [
@@ -67,6 +69,10 @@ TEMPLATES = [
         },
     },
 ]
+
+REST_FRAMEWORK = {
+    'DEFAULT_FILTER_BACKENDS': ('django_filters.rest_framework.DjangoFilterBackend',)
+}
 
 WSGI_APPLICATION = 'django_rest_study.wsgi.application'
 

@@ -1,10 +1,26 @@
 https://dev.classmethod.jp/cloud/aws/aws-beginner-ec2-ssh/
 ここでAWSの接続方法見れた。
 
-https://qiita.com/KeijiYONEDA/items/f9cf37cfc359aa893797
+https://qiita.com/pokotsun/items/1272479e36c5146c6609
 AWSでDjango動かすだけならこれでやれる。
 
 
 
 https://teratail.com/questions/91520
 CSVのインポートはこちら。
+
+問題点
+[DONE]AWSにPython3系のインストールが済まないので、デプロイができない
+
+[]Djangoのcsv取り込みスクリプトが無いので、データの登録ができない
+
+
+今取り組むこと
+AWSへのデプロイを優先する
+Python3にアップデートできればDjango2が動く。
+https://qiita.com/tisk_jdb/items/01bd6ef9209acc3a275f
+これでやれそう？
+
+PythonのAPI実装がそもそもできてない
+URL PATTERNの実装で詰まってる
+
