@@ -1,0 +1,10 @@
+https://dev.classmethod.jp/cloud/aws/aws-beginner-ec2-ssh/
+ここでAWSの接続方法見れた。
+
+https://qiita.com/KeijiYONEDA/items/f9cf37cfc359aa893797
+AWSでDjango動かすだけならこれでやれる。
+
+
+
+https://teratail.com/questions/91520
+CSVのインポートはこちら。
