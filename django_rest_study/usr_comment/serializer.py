@@ -8,7 +8,7 @@ from .models import Comment,Comment_Score
 class UserSerializer(serializers.ModelSerializer):
     class Meta:
         model = Comment
-        fields = ('comment_id','usr_id','comment')
+        fields = ('comment_id','usr_id','comment_date','comment')
 
 
 class EntrySerializer(serializers.ModelSerializer):

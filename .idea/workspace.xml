@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69914d76-9d39-44a8-b9e2-08ab9cae6a72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/csvimport.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_rest_study/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_rest_study/usr_comment/serializer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/django_rest_study/usr_comment/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user_comment.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_rest_study/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/django_rest_study/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_rest_study/django_rest_study/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_rest_study/django_rest_study/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_rest_study/django_rest_study/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_rest_study/django_rest_study/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_rest_study/usr_comment/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_rest_study/usr_comment/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_rest_study/usr_comment/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_rest_study/usr_comment/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_rest_study/usr_comment/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_rest_study/usr_comment/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_rest_study/usr_comment/serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_rest_study/usr_comment/serializer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/memo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/memo.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,14 +34,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="590" />
-          <entry key="txt" value="278" />
+          <entry key="py" value="593" />
+          <entry key="txt" value="280" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="278" />
-          <entry key="Python" value="590" />
+          <entry key="PLAIN_TEXT" value="280" />
+          <entry key="Python" value="593" />
         </counts>
       </usages-collector>
     </session>
@@ -62,8 +51,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/memo.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+            <state relative-caret-position="322">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -80,8 +69,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/django_rest_study/usr_comment/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+            <state relative-caret-position="75">
+              <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="16" />
               <folding>
                 <marker date="1551955122366" expanded="true" signature="58:464" ph="..." />
               </folding>
@@ -98,26 +87,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/django_rest_study/usr_comment/serializer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/csvimport.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+            <state relative-caret-position="240">
+              <caret line="16" column="52" lean-forward="true" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/user_comment.csv">
+        <entry file="file://$PROJECT_DIR$/django_rest_study/usr_comment/csvimport.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/django_rest_study/usr_comment/user_comment.csv">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -170,12 +159,12 @@
         <option value="$PROJECT_DIR$/django_rest_study/usr_comment/admin.py" />
         <option value="$PROJECT_DIR$/django_rest_study/usr_comment/models.py" />
         <option value="$PROJECT_DIR$/django_rest_study/usr_comment/views.py" />
-        <option value="$PROJECT_DIR$/memo.txt" />
         <option value="$PROJECT_DIR$/django_rest_study/usr_comment/urls.py" />
         <option value="$PROJECT_DIR$/django_rest_study/django_rest_study/urls.py" />
         <option value="$PROJECT_DIR$/django_rest_study/django_rest_study/settings.py" />
-        <option value="$PROJECT_DIR$/django_rest_study/usr_comment/serializer.py" />
         <option value="$PROJECT_DIR$/csvimport.py" />
+        <option value="$PROJECT_DIR$/memo.txt" />
+        <option value="$PROJECT_DIR$/django_rest_study/usr_comment/serializer.py" />
       </list>
     </option>
   </component>
@@ -204,6 +193,18 @@
               <item name="restAPIStudy" type="462c0819:PsiDirectoryNode" />
               <item name="django_rest_study" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="restAPIStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="restAPIStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="django_rest_study" type="462c0819:PsiDirectoryNode" />
+              <item name="django_rest_study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="restAPIStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="restAPIStudy" type="462c0819:PsiDirectoryNode" />
+              <item name="django_rest_study" type="462c0819:PsiDirectoryNode" />
+              <item name="usr_comment" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -215,9 +216,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/django_rest_study/django_rest_study" />
       <recent name="$PROJECT_DIR$/django_rest_study/usr_comment" />
+      <recent name="$PROJECT_DIR$/django_rest_study/django_rest_study" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -275,18 +276,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="27" y="142" width="1356" height="675" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22621723" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18651685" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.34991422" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.34819898" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32933104" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -314,13 +314,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/memo.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/django_rest_study/django_rest_study/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -342,13 +335,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/django_rest_study/usr_comment/serializer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/django_rest_study/usr_comment/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -356,23 +342,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/django_rest_study/usr_comment/user_comment.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/memo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django_rest_study/usr_comment/csvimport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/django_rest_study/usr_comment/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+        <state relative-caret-position="75">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="16" />
           <folding>
             <marker date="1551955122366" expanded="true" signature="58:464" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/user_comment.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/csvimport.py">
+    <entry file="file://$PROJECT_DIR$/django_rest_study/usr_comment/serializer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        <state relative-caret-position="240">
+          <caret line="16" column="52" lean-forward="true" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
         </state>
       </provider>
     </entry>

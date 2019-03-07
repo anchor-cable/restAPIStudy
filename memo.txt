@@ -24,3 +24,5 @@ https://qiita.com/tisk_jdb/items/01bd6ef9209acc3a275f
 PythonのAPI実装がそもそもできてない
 URL PATTERNの実装で詰まってる
 
+
+
